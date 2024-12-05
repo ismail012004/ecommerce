@@ -1,0 +1,1 @@
+web: gunicorn ismail_project.wsgi:application
